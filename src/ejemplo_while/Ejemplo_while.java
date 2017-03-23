@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author MANUEL
+ * @version 1 
  */
 public class Ejemplo_while {
 
@@ -19,6 +20,10 @@ public class Ejemplo_while {
     public static void main(String[] args) {
         // TODO code application logic here
         // TODO code application logic here
+        /** Ejemplo de la sentencia while 
+         * toma un entero desde el teclado
+         * y calcula
+         */
         Scanner s = new Scanner(System.in);
         int a;
         System.out.println("Introducir un número entero(0 para terminar): ");
